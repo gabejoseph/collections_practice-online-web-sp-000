@@ -19,3 +19,7 @@ def reverse_array(x)
     y.sort{|a, b| a <=> b}
   end
 end
+
+def kesha_maker(x)
+  x.each do |y|
+    
