@@ -34,7 +34,8 @@ def sum_array(x)
   x.inject(0){|a, b| a + b}
 end
 
-
+def add_s(x)
+  x << "s"
 
 
 
