@@ -36,7 +36,7 @@ end
 
 def add_s(x)
   x.each_with_index.collect do |element, index| 
-    if element != feet 
+    if element != "feet"
       element << "s"
     end
   end
