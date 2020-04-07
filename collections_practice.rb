@@ -22,7 +22,7 @@ end
 
 def kesha_maker(x)
   x.each do |y|
-    x[2] = $
+    x[2] = "$"
   end
 end
 
