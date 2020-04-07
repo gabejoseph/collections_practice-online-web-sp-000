@@ -5,4 +5,5 @@ end
 def sort_array_desc(x)
   x.sort 
     b <=> a
+  end
 end
