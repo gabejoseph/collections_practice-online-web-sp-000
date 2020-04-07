@@ -26,6 +26,9 @@ def kesha_maker(x)
   end
 end
 
+def find_a(x)
+  
+
 
 
 
