@@ -37,6 +37,7 @@ end
 def add_s(x)
   x.each_with_index.collect{|element, index| element << "s"}
     index[1] = "feet"
+  end
 end
 
 
