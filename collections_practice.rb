@@ -44,5 +44,3 @@ def add_s(x)
   end
 end
 
-    
-
