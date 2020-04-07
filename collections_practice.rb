@@ -30,6 +30,12 @@ def find_a(x)
   x.select{|y| y[0] == "a"}
 end
 
+def sum_array(x)
+  x do |y|
+    return 
+  end
+end
+
 
 
 
