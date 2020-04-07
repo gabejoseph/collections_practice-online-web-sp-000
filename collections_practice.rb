@@ -27,7 +27,7 @@ def kesha_maker(x)
 end
 
 def find_a(x)
-  x.find{|y| y[0] == "a"}
+  x.select{|y| y[0] == "a"}
 end
 
 
